@@ -44,6 +44,9 @@ public class AllNewsAdapter extends BaseAdapter {
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
 
+		System.out.println("sprawdzamy gita");
+	
+	
 		View view = null;
 		if (convertView == null) {
 			view = (View) context.getLayoutInflater().inflate(
