@@ -72,7 +72,7 @@ public class Article {
 
 	@Override
 	public String toString() {
-		return "Article [aid=" + aid + ", cid=" + cid + ", title=" + title
+		return "Article [Said=" + aid + ", cid=" + cid + ", title=" + title
 				+ ", url=" + url + ", descripton=" + descripton + ", date="
 				+ date + ", author=" + author + "]";
 	}
