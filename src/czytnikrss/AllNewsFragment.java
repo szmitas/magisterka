@@ -90,7 +90,7 @@ public class AllNewsFragment extends Fragment {
 		adapterAllNews = new AllNewsAdapter(getActivity(), allNews);
 		listViewAllNews.setAdapter(adapterAllNews);
 		listViewAllNews.invalidateViews();
-		System.out.println("asdf");
+		System.out.println("tekst dodany z eclipse (asdf)");
 		return true;
 	}
 
