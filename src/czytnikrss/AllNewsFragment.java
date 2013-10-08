@@ -92,6 +92,7 @@ public class AllNewsFragment extends Fragment {
 		listViewAllNews.invalidateViews();
 		System.out.println("tekst dodany z eclipse (asdf)");
 		System.out.println("z eclipse");
+		System.out.println("z www");
 		return true;
 	}
 
