@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Czytnik RSS</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hintLoginTextBox">Nazwa użytkownika</string>
+    <string name="loginButton">Zaloguj się</string>
+    <string name="rememberMe">Zapamiętaj mnie</string>
+    <string name="hintPasswordTextBox">Hasło</string>
+    <string name="title_activity_home">Czytnik RSS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_section1">Ostatnie wpisy</string>
+    <string name="title_section2">Blogi</string>
+    <string name="title_section3">Coś wymyślę</string>
+    <string name="title_activity_latest_news">LatestNewsActivity</string>
+    <string name="title_activity_news_list">NewsList</string>
+    <string name="title_activity_news">Lista wpisów</string>
+    <string name="newsTitle">Tytuł wpisu</string>
+    <string name="refresh">Odśwież</string>
+    <string name="about">O programie</string>
+    <string name="hintEmailTextBox">Adres email</string>
+    <string name="hintRePasswordTextBox">Powtórz hasło</string>
+    <string name="description">Description</string>
+    <string name="star">star</string>
+    <string name="id">id</string>
+    <string name="postContent">Treść wiadomości</string>
+    <string name="new_channel_text">Podaj adres URL kanału</string>
+    <string name="new_channel_example">np. http://antyweb.pl/rss</string>
+    <string name="poprzedni">&lt;</string>
+    <string name="nastepny">></string>
+    <string name="goToURL">Czytaj całość</string>
+
+</resources>
